@@ -1,9 +1,9 @@
 function Typewriter(element, options) {
   var defaultOptions = {
-    typingSpeed: 100, // Speed of typing in milliseconds
-    delay: 1000, // Delay between each text in milliseconds
-    cursor: "|", // Cursor character
-    cursorSpeed: 400, // Speed of cursor blinking in milliseconds
+    typingSpeed: 100,
+    delay: 1000,
+    cursor: "|", 
+    cursorSpeed: 400,
   };
 
   this.element = element;
