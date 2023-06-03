@@ -4,6 +4,9 @@
 
 <ul>
   <li><strong>ty-text:</strong> Specify an array of strings as the value, and the typewriter effect will cycle through each string. For example, ty-text='["Hello", "World!"]'.</li>
+  <li><strong>ty-typing-speed:</strong> Set the speed of typing in milliseconds. For example, ty-typing-speed="200" sets the typing speed to 200 milliseconds.</li>
+  <li><strong>ty-delay:</strong> Set the delay between each text in milliseconds. For example, ty-delay="1000" sets the delay to 1000 milliseconds.</li>
+  <li><strong>ty-cursor-speed:</strong> Set the speed of the cursor blinking in milliseconds. For example, ty-cursor-speed="500" sets the cursor speed to 500 milliseconds.</li>
 </ul>
 
 
