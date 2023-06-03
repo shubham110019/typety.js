@@ -24,7 +24,7 @@ https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typety.min.js
     ty-cursor-speed="100">
   </span>
  
-  <script src="https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typingtest.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typety.min.js"></script>
   </body>
 </html>
 ```
