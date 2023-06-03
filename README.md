@@ -1,7 +1,7 @@
 # typety.js
 
 
-### [Live Demo](http://www.mattboldt.com/demos/typed-js/) 
+### [Live Demo](https://codepen.io/sralli73/pen/JjmgxwP) 
 
 <p>Customize the typewriter effect by modifying the attributes of the span element with the class "typewriter". Here are the available attributes:</p>
 
