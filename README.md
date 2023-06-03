@@ -7,5 +7,5 @@ https://cdn.jsdelivr.net/gh/shubham110019/typingtest/typingtest.js
 
 ## CDN Link min javascript
 ```
-https://cdn.jsdelivr.net/gh/shubham110019/typingtest/typingtest.min.js
+https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typingtest.min.js
 ```
