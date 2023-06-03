@@ -9,6 +9,8 @@
   <li><strong>ty-cursor-speed:</strong> Set the speed of the cursor blinking in milliseconds. For example, ty-cursor-speed="500" sets the cursor speed to 500 milliseconds.</li>
 </ul>
 
+<a href="https://codepen.io/sralli73/pen/JjmgxwP">live demo</a>
+
 
 ## CDN Link
 ```
