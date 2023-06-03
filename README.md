@@ -12,7 +12,11 @@
 <a href="https://codepen.io/sralli73/pen/JjmgxwP">live demo</a>
 
 
-## CDN Link
+## Installation
+
+
+<h3>CDN</h3>
+
 ```
 https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typety.min.js
 ```
