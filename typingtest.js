@@ -7,7 +7,7 @@ function Typewriter(element, options) {
   };
 
   this.element = element;
-  this.textArray = JSON.parse(this.element.dataset.textArray);
+  this.textArray = JSON.parse(this.element.getAttribute("ty-text"));
   this.options = Object.assign({}, defaultOptions, options);
   this.currentIndex = 0;
   this.isDeleting = false;
@@ -89,10 +89,10 @@ var elements = document.querySelectorAll(".typewriter");
 
 elements.forEach(function (element) {
   var options = {
-    typingSpeed: parseInt(element.dataset.typingSpeed) || 100,
-    delay: parseInt(element.dataset.delay) || 1000,
-    cursor: element.dataset.cursor || "|",
-    cursorSpeed: parseInt(element.dataset.cursorSpeed) || 400,
+    typingSpeed: parseInt(element.getAttribute("ty-typing-speed")) || 100,
+    delay: parseInt(element.getAttribute("ty-delay")) || 1000,
+    cursor: element.getAttribute("ty-cursor") || "|",
+    cursorSpeed: parseInt(element.getAttribute("ty-cursor-speed")) || 400,
   };
 
   var typewriter = new Typewriter(element, options);
