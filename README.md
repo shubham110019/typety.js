@@ -32,13 +32,22 @@ https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typety.min.js
   </head>
  <body>
 
-  <span
+ <h1><span
     class="typewriter"
     ty-text='["What is Lorem Ipsum?", "Why do we use it?", "Where does it come from?"]'
     ty-typing-speed="400"
     ty-delay="100"
     ty-cursor-speed="100">
-  </span>
+  </span></h1>
+
+
+  <h1>How to <span
+    class="typewriter"
+    ty-text='["open", "read", "enjoy"]'
+    ty-typing-speed="400"
+    ty-delay="100"
+    ty-cursor-speed="100">
+  </span> a book</h1>
  
   <script src="https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typety.min.js"></script>
   </body>
