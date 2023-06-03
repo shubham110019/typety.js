@@ -1,5 +1,11 @@
 # typingtest
 
+<p>Customize the typewriter effect by modifying the attributes of the span element with the class "typewriter". Here are the available attributes:</p>
+
+<ul>
+  <li><strong>ty-text:</strong> Specify an array of strings as the value, and the typewriter effect will cycle through each string. For example, ty-text='["Hello", "World!"]'.</li>
+</ul>
+
 
 ## CDN Link
 ```
