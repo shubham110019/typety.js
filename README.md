@@ -3,7 +3,7 @@
 
 ## CDN Link
 ```
-https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typingtest.min.js
+https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typety.min.js
 ```
 
 ## html code
