@@ -1,5 +1,8 @@
 # typety.js
 
+
+### [Live Demo](http://www.mattboldt.com/demos/typed-js/) 
+
 <p>Customize the typewriter effect by modifying the attributes of the span element with the class "typewriter". Here are the available attributes:</p>
 
 <ul>
@@ -8,8 +11,6 @@
   <li><strong>ty-delay:</strong> Set the delay between each text in milliseconds. For example, ty-delay="1000" sets the delay to 1000 milliseconds.</li>
   <li><strong>ty-cursor-speed:</strong> Set the speed of the cursor blinking in milliseconds. For example, ty-cursor-speed="500" sets the cursor speed to 500 milliseconds.</li>
 </ul>
-
-<a href="https://codepen.io/sralli73/pen/JjmgxwP">live demo</a>
 
 
 ## Installation
