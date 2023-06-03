@@ -68,9 +68,9 @@
         var self = this;
         var cursorElement = document.createElement("span");
         cursorElement.className = "typewriter-cursor";
-        cursorElement.innerText = this.options.cursor; // Set the cursor text
+        cursorElement.innerText = this.options.cursor;
 
-        this.element.insertAdjacentElement("afterend", cursorElement);
+        this.element.appendChild(cursorElement);
       };
 
       Typewriter.prototype.pause = function () {
