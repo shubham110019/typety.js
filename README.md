@@ -63,3 +63,5 @@ https://cdn.jsdelivr.net/gh/shubham110019/typingtest@latest/typety.min.js
   }
 </style>
 ```
+
+WebP as image format. You can convert your files here: [https://imgtype.com/webp-converter/]
